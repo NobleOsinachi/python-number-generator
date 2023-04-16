@@ -2,15 +2,12 @@
 This is a simple Python script that generates a random number between 1 and 100.
 
 # Installation
-+ Clone the repository using 
-```bash
-git clone https://github.com/NobleOsinachi/python-number-generator.git
-```
++ Clone the repository using  ```bash git clone https://github.com/NobleOsinachi/python-number-generator.git ```
 + cd into the project directory
 + Run the script using 
 
 ```bash
-npm start
+python index.py
 ```
 # Usage
 The script generates a random number between 1 and 100 each time it is executed. The output will display the generated number on the console.
